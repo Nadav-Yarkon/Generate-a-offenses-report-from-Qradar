@@ -4,7 +4,8 @@ When you run the Run.py file (he runs all the python files), You need to determi
 
 Parameters: 
 
--d : Enter how many days back you would like to view. 
+-d : Enter how many days back you would like to view.
+
 -h / --help : help.
 
 This program is divided into three parts:
@@ -18,4 +19,5 @@ In the file connection.py, you have to change the IP of Qradar and API key.
 example for a run:
 
 python run.py --help.
+
 python run.py -d 3. 
